@@ -1,4 +1,4 @@
 # Lab 5 - Starter
-[explore page](http://127.0.0.1:5500/expose.html)
+[explore page](https://yundukki.github.io/Lab5_Starter/)
 
 [github actions repo](https://github.com/Yundukki/introduction-to-github)
